@@ -1,0 +1,11 @@
+C:\Users\mberk\source\repos\p9Rehber\p9Rehber\bin\Debug\p9Rehber.exe.config
+C:\Users\mberk\source\repos\p9Rehber\p9Rehber\bin\Debug\p9Rehber.exe
+C:\Users\mberk\source\repos\p9Rehber\p9Rehber\bin\Debug\p9Rehber.pdb
+C:\Users\mberk\source\repos\p9Rehber\p9Rehber\obj\Debug\p9Rehber.csproj.AssemblyReference.cache
+C:\Users\mberk\source\repos\p9Rehber\p9Rehber\obj\Debug\p9Rehber.csproj.SuggestedBindingRedirects.cache
+C:\Users\mberk\source\repos\p9Rehber\p9Rehber\obj\Debug\p9Rehber.Form1.resources
+C:\Users\mberk\source\repos\p9Rehber\p9Rehber\obj\Debug\p9Rehber.Properties.Resources.resources
+C:\Users\mberk\source\repos\p9Rehber\p9Rehber\obj\Debug\p9Rehber.csproj.GenerateResource.cache
+C:\Users\mberk\source\repos\p9Rehber\p9Rehber\obj\Debug\p9Rehber.csproj.CoreCompileInputs.cache
+C:\Users\mberk\source\repos\p9Rehber\p9Rehber\obj\Debug\p9Rehber.exe
+C:\Users\mberk\source\repos\p9Rehber\p9Rehber\obj\Debug\p9Rehber.pdb
